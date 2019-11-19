@@ -21,9 +21,11 @@ function App() {
     <div className="container">
       <Logo />
       <Display />
+      <div className="button-container">
       <Specials />
-      <Numbers />
       <Operators />
+      <Numbers />
+      </div>
       
       
       <div className="App">
